@@ -1,0 +1,16 @@
+Costs:
+	scheduling - Airflow
+	
+requirements:
+	Hourly data
+
+behaviour:
+	Aggro, datawise, pessimistic
+	
+Problem1:
+	1. reduce the time for training
+	2. reduce the time for prediction
+	3. create a framework for input and output and handling of data
+	
+Problem2:
+	1. automate data extraction process
