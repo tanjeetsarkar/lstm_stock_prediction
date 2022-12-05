@@ -3,6 +3,7 @@ import numpy as np
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense, Activation, Dropout, LSTM
 from sklearn.preprocessing import MinMaxScaler
+import datetime
 
 
 class PredictionModel():
@@ -41,3 +42,13 @@ class PredictionModel():
 
     def save_model(self, model, name: str):
         model.save(name)
+
+
+if __name__ == '__main__':
+    data = pd.read_csv('SBIN.NS.csv')
+    data['Date'] = pd.to_datetime(data['Date'])
+    data = data[data['Date'] < datetime.datetime(2022, 1, 1)]
+    pm = PredictionModel(data)
+    model = pm.create_model()
+    model = pm.train_model(model)
+    model.save('test_model.h5')
