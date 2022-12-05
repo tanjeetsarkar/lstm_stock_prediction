@@ -37,7 +37,7 @@ class PredictionModel():
             y_train.append(training_set[i, 0])
         X_train, y_train = np.array(X_train), np.array(y_train)
         X_train = np.reshape(X_train, (X_train.shape[0], X_train.shape[1], 1))
-        model.fit(X_train, y_train, epochs=100, batch_size=32, verbose=0)
+        model.fit(X_train, y_train, epochs=100, batch_size=32, verbose=1)
         return model
 
     def save_model(self, model, name: str):
