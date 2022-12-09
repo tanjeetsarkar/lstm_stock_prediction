@@ -14,3 +14,11 @@ Problem1:
 	
 Problem2:
 	1. automate data extraction process
+
+Problem3:
+	1. Continuous updation of Input Data
+		- Daily updation
+	2. API structure of Prediction program
+		- Input
+		- Output
+		- Optimization

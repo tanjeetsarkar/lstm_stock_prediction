@@ -20,7 +20,7 @@ class PmTesting():
         '''
         Testing the model
         '''
-        test_set = self.data.iloc[:, 1:2].values
+        test_set = self.data.iloc[:, 4:5].values
         test_set = self.scaler.fit_transform(test_set)
         X_test = []
         y_test = []
@@ -38,8 +38,7 @@ class PmTesting():
         '''
         Calculating the accuracy of the model
         '''
-        test_set = self.data.iloc[:, 1:2].values
-        test_set = self.scaler.fit_transform(test_set)
+        test_set = self.data.iloc[:, 4:5].values
         test_set = test_set[self.timestep:, :]
         accuracy = 0
         for i in range(len(predicted_stock_price)):
@@ -53,7 +52,7 @@ if __name__ == '__main__':
     data = pd.read_csv('SBIN.NS.csv')
     data['Date'] = pd.to_datetime(data['Date'])
     data = data[data['Date'] > datetime.datetime(2022, 1, 1)]
-    model = load_model('test_model.h5')
+    model = load_model(f'test_model.h5')
     pmt = PmTesting(model, data)
     predicted_stock_price = pmt.test_model()
     print(predicted_stock_price)

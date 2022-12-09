@@ -28,7 +28,7 @@ class PredictionModel():
         return model
 
     def train_model(self, model):
-        training_set = self.data.iloc[:, 1:2].values
+        training_set = self.data.iloc[:, 4:5].values
         training_set = self.scaler.fit_transform(training_set)
         X_train = []
         y_train = []
@@ -46,6 +46,7 @@ class PredictionModel():
 
 if __name__ == '__main__':
     data = pd.read_csv('SBIN.NS.csv')
+    data = data.dropna()
     data['Date'] = pd.to_datetime(data['Date'])
     data = data[data['Date'] < datetime.datetime(2022, 1, 1)]
     pm = PredictionModel(data)
