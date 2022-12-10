@@ -1,6 +1,7 @@
 from sklearn.preprocessing import MinMaxScaler
 import numpy as np
 import pandas as pd
+import matplotlib.pyplot as plt
 
 
 class StockPrediction():
@@ -35,7 +36,7 @@ class StockPrediction():
             raise ValueError('data should be in shape of (1, timestep, 1)')
         weekly_data = []
         i = 0
-        while i <5:
+        while i < 5:
             lst_input = [x[0] for x in daily_data[0]]
             p = self.daily_prediction(daily_data)
             x = lst_input[1:]
@@ -43,19 +44,41 @@ class StockPrediction():
             weekly_data.append(p)
             daily_data = np.array(x).reshape(1, self.timestep, 1)
             i += 1
-        return weekly_data
-    
+        return np.array(weekly_data).flatten().reshape(5, 1)
+
     def run_daily(self):
-        test_set = self.data.iloc[-60:, 4:5].values
+        test_set = self.data.iloc[-60:, 5:6].values
         test_set = self.scaler.fit_transform(test_set)
         test_set = np.reshape(test_set, (1, self.timestep, 1))
         return self.daily_prediction(test_set)
-    
+
     def continuous_weekly_prediction(self):
-        test_set = self.data.iloc[-60:, 4:5].values
+        test_set = self.data.iloc[-60:, 5:6].values
         test_set = self.scaler.fit_transform(test_set)
         test_set = np.reshape(test_set, (1, self.timestep, 1))
         return self.weekly_prediction(test_set)
+
+    def weekly_prediction_graph(self, weekly_data):
+        '''weekly_data should be in shape of (5, 1)'''
+        if not weekly_data.shape == (5, 1):
+            raise ValueError('data should be in shape of (5, 1)')
+        plt.plot(weekly_data, color='red', label='Predicted Stock Price')
+        plt.title('Stock Price Prediction')
+        plt.xlabel('Time')
+        plt.ylabel('Stock Price')
+        plt.legend()
+        plt.show()
+
+    def real_week_data_graph(self, real_data):
+        '''real_data should be in shape of (5, 1)'''
+        if not real_data.shape == (5, 1):
+            raise ValueError('data should be in shape of (5, 1)')
+        plt.plot(real_data, color='blue', label='Real Stock Price')
+        plt.title('Stock Price Prediction')
+        plt.xlabel('Time')
+        plt.ylabel('Stock Price')
+        plt.legend()
+        plt.show()
 
 
 if __name__ == '__main__':

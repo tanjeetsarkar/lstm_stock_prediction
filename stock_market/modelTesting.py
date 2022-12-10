@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 from sklearn.preprocessing import MinMaxScaler
 import datetime
+import matplotlib.pyplot as plt
 
 
 class PmTesting():
@@ -20,7 +21,7 @@ class PmTesting():
         '''
         Testing the model
         '''
-        test_set = self.data.iloc[:, 4:5].values
+        test_set = self.data.iloc[:, 5:6].values
         test_set = self.scaler.fit_transform(test_set)
         X_test = []
         y_test = []
@@ -38,7 +39,7 @@ class PmTesting():
         '''
         Calculating the accuracy of the model
         '''
-        test_set = self.data.iloc[:, 4:5].values
+        test_set = self.data.iloc[:, 5:6].values
         test_set = test_set[self.timestep:, :]
         accuracy = 0
         for i in range(len(predicted_stock_price)):
@@ -46,6 +47,21 @@ class PmTesting():
                 (predicted_stock_price[i] - test_set[i])/test_set[i])
         accuracy = (1 - accuracy/len(predicted_stock_price))*100
         return accuracy
+
+    def real_v_predicted_graph(self, predicted_stock_price):
+        '''
+        Plotting the graph of the real stock price vs predicted stock price
+        '''
+        test_set = self.data.iloc[:, 5:6].values
+        test_set = test_set[self.timestep:, :]
+        plt.plot(test_set, color='red', label='Real Stock Price')
+        plt.plot(predicted_stock_price, color='blue',
+                 label='Predicted Stock Price')
+        plt.title('Stock Price Prediction')
+        plt.xlabel('Time')
+        plt.ylabel('Stock Price')
+        plt.legend()
+        plt.show()
 
 
 if __name__ == '__main__':
@@ -58,3 +74,4 @@ if __name__ == '__main__':
     print(predicted_stock_price)
     accuracy = pmt.model_accuracy(predicted_stock_price)
     print(accuracy)
+    pmt.real_v_predicted_graph(predicted_stock_price)

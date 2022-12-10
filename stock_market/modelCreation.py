@@ -28,7 +28,7 @@ class PredictionModel():
         return model
 
     def train_model(self, model):
-        training_set = self.data.iloc[:, 4:5].values
+        training_set = self.data.iloc[:, 5:6].values
         training_set = self.scaler.fit_transform(training_set)
         X_train = []
         y_train = []
