@@ -19,6 +19,8 @@ Data Extraction Program:
 		exports.TOP_VALUE_URL = 'https://www1.nseindia.com/live_market/dynaContent/live_analysis/most_active/allTopValue1.json';
 		exports.TOP_VOLUME_URL = 'https://www1.nseindia.com/live_market/dynaContent/live_analysis/most_active/allTopVolume1.json';
 		exports.NEW_CHART_DATA_URL = 'https://www1.nseindia.com/ChartApp/install/charts/data/GetHistoricalNew.jsp';
+		---------------------------
+		2. Google Finance
 		]
 	
 	- Get quote Info:
