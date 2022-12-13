@@ -7,8 +7,9 @@ import datetime
 
 
 class PredictionModel():
-    def __init__(self, data, timestep: int = 60):
+    def __init__(self, data, timestep: int = 60, offset: int = 0):
         self.data = data
+        self.offset = offset
         self.timestep = timestep
         self.scaler = MinMaxScaler(feature_range=(0, 1))
 
@@ -28,7 +29,8 @@ class PredictionModel():
         return model
 
     def train_model(self, model):
-        training_set = self.data.iloc[:, 5:6].values
+        training_set = self.data.iloc[:, 3:4].values
+        training_set = training_set[:-self.offset] if self.offset > 0 else training_set
         training_set = self.scaler.fit_transform(training_set)
         X_train = []
         y_train = []
@@ -45,11 +47,12 @@ class PredictionModel():
 
 
 if __name__ == '__main__':
-    data = pd.read_csv('SBIN.NS.csv')
-    data = data.dropna()
-    data['Date'] = pd.to_datetime(data['Date'])
-    data = data[data['Date'] < datetime.datetime(2022, 1, 1)]
-    pm = PredictionModel(data)
-    model = pm.create_model()
-    model = pm.train_model(model)
-    model.save('test_model.h5')
+    pass
+    # data = pd.read_csv('SBIN.NS.csv')
+    # data = data.dropna()
+    # data['Date'] = pd.to_datetime(data['Date'])
+    # data = data[data['Date'] < datetime.datetime(2022, 1, 1)]
+    # pm = PredictionModel(data)
+    # model = pm.create_model()
+    # model = pm.train_model(model)
+    # model.save('test_model.h5')
