@@ -54,7 +54,7 @@ class HistoricalData():
                         'TECHM.NS',
                         'HCLTECH.NS']
 
-    def __init__(self, excluded: list = None) -> None:
+    def __init__(self, excluded: list = []) -> None:
         self.excluded = excluded
         self.ticker_list = self.NSE_TICKER
         if self.excluded is not None:
@@ -74,5 +74,5 @@ if __name__ == '__main__':
     hd = HistoricalData()
     conjugated_data = hd.get_data()
     for ticker in hd.ticker_list:
-        save_data(conjugated_data[ticker].dropna(),
+        save_data(pd.DataFrame(conjugated_data[ticker].dropna()),
                   f'../tickerData/data_221211/{ticker}221211.csv')
