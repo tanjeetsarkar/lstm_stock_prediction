@@ -49,19 +49,19 @@ class StockPrediction():
         return np.array(weekly_data).flatten().reshape(5, 1)
 
     def run_daily(self):
-        test_set = self.data.iloc[-60:, 5:6].values
+        test_set = self.data.iloc[-60:, 3:4].values
         test_set = self.scaler.fit_transform(test_set)
         test_set = np.reshape(test_set, (1, self.timestep, 1))
         return self.daily_prediction(test_set)
 
     def continuous_weekly_prediction(self):
-        test_set = self.data.iloc[-60:, 5:6].values
+        test_set = self.data.iloc[-60:, 3:4].values
         test_set = self.scaler.fit_transform(test_set)
         test_set = np.reshape(test_set, (1, self.timestep, 1))
         return self.weekly_prediction(test_set)
 
     def long_prediction(self, range):
-        test_set = self.data.iloc[-60:, 5:6].values
+        test_set = self.data.iloc[-60:, 3:4].values
         test_set = self.scaler.fit_transform(test_set)
         test_set = np.reshape(test_set, (1, self.timestep, 1))
         long_data = []
@@ -75,7 +75,7 @@ class StockPrediction():
             test_set = np.array(x).reshape(1, self.timestep, 1)
             i += 1
         return np.array(long_data).flatten().reshape(range, 1)
-    
+
     def long_prediction_graph(self, range):
         long_data = self.long_prediction(range)
         plt.plot(long_data, color='red', label='Predicted Stock Price')
@@ -103,7 +103,7 @@ class StockPrediction():
         plt.xlabel('Time')
         plt.ylabel('Stock Price')
         plt.legend()
-        plt.show()    
+        plt.show()
 
     def real_week_data_graph(self, real_data):
         '''real_data should be in shape of (5, 1)'''
