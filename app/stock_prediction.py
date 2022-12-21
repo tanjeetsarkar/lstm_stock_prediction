@@ -130,5 +130,5 @@ if __name__ == '__main__':
     # print([x.flatten() for x in w_result])
     # print('tomorrows prediction is: ', sp.run_daily().flatten()[0])
     # print(sp.run_daily())
-    print(sp.long_prediction(100))
-    print(sp.continuous_weekly_prediction())
+    print(sp.long_prediction(5).flatten())
+    # print(sp.continuous_weekly_prediction())
