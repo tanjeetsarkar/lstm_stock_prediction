@@ -33,9 +33,9 @@ class BestStocks():
             results = sp.long_prediction(days).flatten() # flatten to 1D array
             predictions = {
                 f'day{i}': {
-                    'prediction': results[i-1],
+                    'prediction': int(results[i-1]),
                     'profit/loss': 'profit' if results[i-1] > previous_close else 'loss',
-                    'diff': (results[i-1] - previous_close)
+                    'diff': int(results[i-1] - previous_close)
                 } for i in range(1, days+1)
             }
             predictions['previous_close'] = previous_close
@@ -56,6 +56,6 @@ if __name__ == '__main__':
     bs = BestStocks(extended_model_path='models_221211/')
     p = bs.generate()
     with open('Learningapp/best_stocks.json', 'w') as f:
-        json.dump(str(p), f, indent=4)
+        json.dump(p, f, indent=4)
 
             

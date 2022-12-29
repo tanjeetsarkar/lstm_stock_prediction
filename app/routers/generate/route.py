@@ -1,6 +1,7 @@
 from fastapi import APIRouter
-from app.routers.generate.service import get_prediction_data
+from app.routers.generate.service import check_in_db
 from fastapi.responses import JSONResponse
+from app.routers.generate.models import PredictedDataModel
 
 generate = APIRouter(
     prefix="/generate",
@@ -11,5 +12,5 @@ generate = APIRouter(
 
 @generate.get("/")
 async def generate_():
-    data = await get_prediction_data()
-    return data
+    data = await check_in_db()
+    return [PredictedDataModel(**data) for data in data]
