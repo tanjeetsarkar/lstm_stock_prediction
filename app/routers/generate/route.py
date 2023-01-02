@@ -13,4 +13,5 @@ generate = APIRouter(
 @generate.get("/")
 async def generate_():
     data = await check_in_db()
+    print(data, "THESE DATAS")
     return [PredictedDataModel(**data) for data in data]

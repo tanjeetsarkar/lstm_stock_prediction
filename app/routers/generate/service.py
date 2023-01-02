@@ -13,13 +13,16 @@ async def check_in_db(date: str = dt):
 
     data = db["prediction"].find({"predictions.date": date})
     result = await data.to_list(length=None)
-    if not data:
+    if not result:
         pd = BestStocks(extended_model_path="models_221211/")
         p = pd.generate()
+        print("IN HERE")
         with open("app/Learningapp/best_stocks.json", "w") as f:
             json.dump(parse_json(p), f, indent=4)
         res = await db["prediction"].insert_many([x for x in p])
-        return res
+        res_ids = res.inserted_ids
+        data = db["prediction"].find({"_id": {"$in": res_ids}})
+        result = await data.to_list(length=None)
     return result
 
 

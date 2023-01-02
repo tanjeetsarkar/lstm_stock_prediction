@@ -3,37 +3,37 @@
         "stock": "NESTLEIND.NS",
         "predictions": {
             "day1": {
-                "prediction": 19891,
-                "profit/loss": "profit",
-                "diff": 83
-            },
-            "day2": {
-                "prediction": 19846,
-                "profit/loss": "profit",
-                "diff": 38
-            },
-            "day3": {
-                "prediction": 19845,
-                "profit/loss": "profit",
-                "diff": 37
-            },
-            "day4": {
-                "prediction": 19871,
-                "profit/loss": "profit",
-                "diff": 63
-            },
-            "day5": {
-                "prediction": 19910,
-                "profit/loss": "profit",
-                "diff": 102
-            },
-            "day6": {
-                "prediction": 19952,
+                "prediction": 19706,
                 "profit/loss": "profit",
                 "diff": 144
             },
-            "previous_close": 19808.0,
-            "date": "221229"
+            "day2": {
+                "prediction": 19677,
+                "profit/loss": "profit",
+                "diff": 115
+            },
+            "day3": {
+                "prediction": 19697,
+                "profit/loss": "profit",
+                "diff": 135
+            },
+            "day4": {
+                "prediction": 19745,
+                "profit/loss": "profit",
+                "diff": 183
+            },
+            "day5": {
+                "prediction": 19802,
+                "profit/loss": "profit",
+                "diff": 241
+            },
+            "day6": {
+                "prediction": 19858,
+                "profit/loss": "profit",
+                "diff": 296
+            },
+            "previous_close": 19561.55078125,
+            "date": "230102"
         }
     },
     {
@@ -42,257 +42,257 @@
             "day1": {
                 "prediction": 1000,
                 "profit/loss": "profit",
-                "diff": 0
+                "diff": 3
             },
             "day2": {
-                "prediction": 1002,
+                "prediction": 1000,
                 "profit/loss": "profit",
-                "diff": 1
+                "diff": 3
             },
             "day3": {
-                "prediction": 1003,
+                "prediction": 1000,
                 "profit/loss": "profit",
-                "diff": 2
+                "diff": 3
             },
             "day4": {
-                "prediction": 1003,
+                "prediction": 1000,
                 "profit/loss": "profit",
                 "diff": 3
             },
             "day5": {
-                "prediction": 1003,
+                "prediction": 1000,
                 "profit/loss": "profit",
                 "diff": 3
             },
             "day6": {
-                "prediction": 1003,
+                "prediction": 999,
                 "profit/loss": "profit",
-                "diff": 3
+                "diff": 2
             },
-            "previous_close": 1000.5499877929688,
-            "date": "221229"
+            "previous_close": 997.0,
+            "date": "230102"
         }
     },
     {
         "stock": "ITC.NS",
         "predictions": {
             "day1": {
-                "prediction": 337,
+                "prediction": 334,
                 "profit/loss": "profit",
                 "diff": 1
             },
             "day2": {
-                "prediction": 338,
+                "prediction": 333,
+                "profit/loss": "profit",
+                "diff": 1
+            },
+            "day3": {
+                "prediction": 334,
+                "profit/loss": "profit",
+                "diff": 1
+            },
+            "day4": {
+                "prediction": 334,
                 "profit/loss": "profit",
                 "diff": 2
             },
-            "day3": {
-                "prediction": 338,
-                "profit/loss": "profit",
-                "diff": 3
-            },
-            "day4": {
-                "prediction": 338,
-                "profit/loss": "profit",
-                "diff": 3
-            },
             "day5": {
-                "prediction": 338,
+                "prediction": 335,
                 "profit/loss": "profit",
-                "diff": 3
+                "diff": 2
             },
             "day6": {
-                "prediction": 338,
+                "prediction": 335,
                 "profit/loss": "profit",
-                "diff": 3
+                "diff": 2
             },
-            "previous_close": 335.3500061035156,
-            "date": "221229"
+            "previous_close": 332.8500061035156,
+            "date": "230102"
         }
     },
     {
         "stock": "DRREDDY.NS",
         "predictions": {
             "day1": {
-                "prediction": 4302,
+                "prediction": 4287,
                 "profit/loss": "profit",
-                "diff": 42
+                "diff": 52
             },
             "day2": {
-                "prediction": 4327,
+                "prediction": 4301,
                 "profit/loss": "profit",
                 "diff": 66
             },
             "day3": {
-                "prediction": 4366,
+                "prediction": 4327,
                 "profit/loss": "profit",
-                "diff": 105
+                "diff": 92
             },
             "day4": {
-                "prediction": 4405,
+                "prediction": 4349,
                 "profit/loss": "profit",
-                "diff": 144
+                "diff": 114
             },
             "day5": {
-                "prediction": 4440,
+                "prediction": 4363,
                 "profit/loss": "profit",
-                "diff": 179
+                "diff": 128
             },
             "day6": {
-                "prediction": 4465,
+                "prediction": 4369,
                 "profit/loss": "profit",
-                "diff": 205
+                "diff": 134
             },
-            "previous_close": 4260.60009765625,
-            "date": "221229"
+            "previous_close": 4235.0498046875,
+            "date": "230102"
         }
     },
     {
         "stock": "TITAN.NS",
         "predictions": {
             "day1": {
-                "prediction": 2585,
+                "prediction": 2589,
                 "profit/loss": "profit",
-                "diff": 32
+                "diff": 23
             },
             "day2": {
-                "prediction": 2594,
+                "prediction": 2581,
                 "profit/loss": "profit",
-                "diff": 41
+                "diff": 15
             },
             "day3": {
-                "prediction": 2595,
+                "prediction": 2581,
                 "profit/loss": "profit",
-                "diff": 41
+                "diff": 15
             },
             "day4": {
-                "prediction": 2595,
+                "prediction": 2585,
                 "profit/loss": "profit",
-                "diff": 41
+                "diff": 19
             },
             "day5": {
-                "prediction": 2597,
+                "prediction": 2587,
                 "profit/loss": "profit",
-                "diff": 44
+                "diff": 21
             },
             "day6": {
-                "prediction": 2599,
+                "prediction": 2587,
                 "profit/loss": "profit",
-                "diff": 46
+                "diff": 21
             },
-            "previous_close": 2553.25,
-            "date": "221229"
+            "previous_close": 2565.75,
+            "date": "230102"
         }
     },
     {
         "stock": "EICHERMOT.NS",
         "predictions": {
             "day1": {
-                "prediction": 3346,
+                "prediction": 3283,
+                "profit/loss": "profit",
+                "diff": 54
+            },
+            "day2": {
+                "prediction": 3272,
+                "profit/loss": "profit",
+                "diff": 43
+            },
+            "day3": {
+                "prediction": 3278,
+                "profit/loss": "profit",
+                "diff": 49
+            },
+            "day4": {
+                "prediction": 3287,
+                "profit/loss": "profit",
+                "diff": 58
+            },
+            "day5": {
+                "prediction": 3293,
                 "profit/loss": "profit",
                 "diff": 64
             },
-            "day2": {
-                "prediction": 3445,
-                "profit/loss": "profit",
-                "diff": 164
-            },
-            "day3": {
-                "prediction": 3543,
-                "profit/loss": "profit",
-                "diff": 262
-            },
-            "day4": {
-                "prediction": 3626,
-                "profit/loss": "profit",
-                "diff": 345
-            },
-            "day5": {
-                "prediction": 3679,
-                "profit/loss": "profit",
-                "diff": 398
-            },
             "day6": {
-                "prediction": 3707,
+                "prediction": 3297,
                 "profit/loss": "profit",
-                "diff": 426
+                "diff": 69
             },
-            "previous_close": 3281.199951171875,
-            "date": "221229"
+            "previous_close": 3228.85009765625,
+            "date": "230102"
         }
     },
     {
         "stock": "SBIN.NS",
         "predictions": {
             "day1": {
-                "prediction": 610,
-                "profit/loss": "loss",
-                "diff": -1
-            },
-            "day2": {
-                "prediction": 610,
-                "profit/loss": "loss",
-                "diff": -1
-            },
-            "day3": {
-                "prediction": 611,
-                "profit/loss": "loss",
-                "diff": 0
-            },
-            "day4": {
                 "prediction": 612,
                 "profit/loss": "profit",
                 "diff": 0
             },
-            "day5": {
+            "day2": {
                 "prediction": 613,
                 "profit/loss": "profit",
                 "diff": 1
+            },
+            "day3": {
+                "prediction": 614,
+                "profit/loss": "profit",
+                "diff": 2
+            },
+            "day4": {
+                "prediction": 614,
+                "profit/loss": "profit",
+                "diff": 2
+            },
+            "day5": {
+                "prediction": 614,
+                "profit/loss": "profit",
+                "diff": 2
             },
             "day6": {
-                "prediction": 613,
+                "prediction": 614,
                 "profit/loss": "profit",
-                "diff": 1
+                "diff": 2
             },
-            "previous_close": 611.7999877929688,
-            "date": "221229"
+            "previous_close": 612.2000122070312,
+            "date": "230102"
         }
     },
     {
         "stock": "BPCL.NS",
         "predictions": {
             "day1": {
-                "prediction": 327,
-                "profit/loss": "profit",
-                "diff": 0
-            },
-            "day2": {
-                "prediction": 328,
+                "prediction": 335,
                 "profit/loss": "profit",
                 "diff": 1
             },
-            "day3": {
-                "prediction": 329,
-                "profit/loss": "profit",
-                "diff": 2
-            },
-            "day4": {
-                "prediction": 330,
+            "day2": {
+                "prediction": 337,
                 "profit/loss": "profit",
                 "diff": 3
             },
-            "day5": {
-                "prediction": 331,
+            "day3": {
+                "prediction": 339,
                 "profit/loss": "profit",
-                "diff": 4
+                "diff": 5
+            },
+            "day4": {
+                "prediction": 340,
+                "profit/loss": "profit",
+                "diff": 6
+            },
+            "day5": {
+                "prediction": 341,
+                "profit/loss": "profit",
+                "diff": 7
             },
             "day6": {
-                "prediction": 331,
+                "prediction": 341,
                 "profit/loss": "profit",
-                "diff": 4
+                "diff": 7
             },
-            "previous_close": 327.20001220703125,
-            "date": "221229"
+            "previous_close": 333.8500061035156,
+            "date": "230102"
         }
     },
     {
@@ -300,502 +300,502 @@
         "predictions": {
             "day1": {
                 "prediction": 1227,
-                "profit/loss": "loss",
-                "diff": -3
-            },
-            "day2": {
-                "prediction": 1227,
-                "profit/loss": "loss",
-                "diff": -4
-            },
-            "day3": {
-                "prediction": 1228,
-                "profit/loss": "loss",
-                "diff": -2
-            },
-            "day4": {
-                "prediction": 1231,
                 "profit/loss": "profit",
                 "diff": 0
             },
-            "day5": {
+            "day2": {
+                "prediction": 1229,
+                "profit/loss": "profit",
+                "diff": 3
+            },
+            "day3": {
+                "prediction": 1231,
+                "profit/loss": "profit",
+                "diff": 5
+            },
+            "day4": {
                 "prediction": 1233,
                 "profit/loss": "profit",
-                "diff": 2
+                "diff": 6
+            },
+            "day5": {
+                "prediction": 1234,
+                "profit/loss": "profit",
+                "diff": 8
             },
             "day6": {
                 "prediction": 1235,
                 "profit/loss": "profit",
-                "diff": 3
+                "diff": 9
             },
-            "previous_close": 1231.1500244140625,
-            "date": "221229"
+            "previous_close": 1226.3499755859375,
+            "date": "230102"
         }
     },
     {
         "stock": "HDFCBANK.NS",
         "predictions": {
             "day1": {
-                "prediction": 1643,
+                "prediction": 1645,
                 "profit/loss": "profit",
-                "diff": 1
+                "diff": 16
             },
             "day2": {
                 "prediction": 1648,
                 "profit/loss": "profit",
-                "diff": 7
+                "diff": 19
             },
             "day3": {
-                "prediction": 1652,
+                "prediction": 1650,
                 "profit/loss": "profit",
-                "diff": 11
+                "diff": 21
             },
             "day4": {
-                "prediction": 1655,
+                "prediction": 1651,
                 "profit/loss": "profit",
-                "diff": 14
+                "diff": 22
             },
             "day5": {
-                "prediction": 1657,
+                "prediction": 1652,
                 "profit/loss": "profit",
-                "diff": 16
+                "diff": 23
             },
             "day6": {
-                "prediction": 1657,
+                "prediction": 1652,
                 "profit/loss": "profit",
-                "diff": 16
+                "diff": 23
             },
-            "previous_close": 1641.300048828125,
-            "date": "221229"
+            "previous_close": 1628.699951171875,
+            "date": "230102"
         }
     },
     {
         "stock": "HINDUNILVR.NS",
         "predictions": {
             "day1": {
-                "prediction": 2598,
+                "prediction": 2589,
                 "profit/loss": "profit",
                 "diff": 30
             },
             "day2": {
-                "prediction": 2602,
+                "prediction": 2597,
                 "profit/loss": "profit",
-                "diff": 34
+                "diff": 38
             },
             "day3": {
-                "prediction": 2616,
+                "prediction": 2612,
                 "profit/loss": "profit",
-                "diff": 48
+                "diff": 54
             },
             "day4": {
-                "prediction": 2631,
+                "prediction": 2627,
                 "profit/loss": "profit",
-                "diff": 63
+                "diff": 69
             },
             "day5": {
-                "prediction": 2643,
+                "prediction": 2638,
                 "profit/loss": "profit",
-                "diff": 75
+                "diff": 79
             },
             "day6": {
-                "prediction": 2650,
+                "prediction": 2644,
                 "profit/loss": "profit",
-                "diff": 82
+                "diff": 86
             },
-            "previous_close": 2568.050048828125,
-            "date": "221229"
+            "previous_close": 2558.39990234375,
+            "date": "230102"
         }
     },
     {
         "stock": "HDFCLIFE.NS",
         "predictions": {
             "day1": {
-                "prediction": 568,
+                "prediction": 567,
                 "profit/loss": "loss",
                 "diff": -2
             },
             "day2": {
-                "prediction": 568,
+                "prediction": 567,
                 "profit/loss": "loss",
                 "diff": -2
             },
             "day3": {
-                "prediction": 567,
+                "prediction": 566,
                 "profit/loss": "loss",
                 "diff": -3
             },
             "day4": {
-                "prediction": 567,
+                "prediction": 566,
                 "profit/loss": "loss",
                 "diff": -3
             },
             "day5": {
-                "prediction": 566,
+                "prediction": 565,
                 "profit/loss": "loss",
                 "diff": -4
             },
             "day6": {
-                "prediction": 566,
+                "prediction": 565,
                 "profit/loss": "loss",
                 "diff": -4
             },
-            "previous_close": 571.0,
-            "date": "221229"
+            "previous_close": 570.2999877929688,
+            "date": "230102"
         }
     },
     {
         "stock": "BRITANNIA.NS",
         "predictions": {
             "day1": {
-                "prediction": 4356,
+                "prediction": 4308,
+                "profit/loss": "profit",
+                "diff": 16
+            },
+            "day2": {
+                "prediction": 4301,
+                "profit/loss": "profit",
+                "diff": 9
+            },
+            "day3": {
+                "prediction": 4300,
                 "profit/loss": "profit",
                 "diff": 8
             },
-            "day2": {
-                "prediction": 4347,
-                "profit/loss": "loss",
-                "diff": 0
+            "day4": {
+                "prediction": 4294,
+                "profit/loss": "profit",
+                "diff": 2
             },
-            "day3": {
-                "prediction": 4343,
+            "day5": {
+                "prediction": 4288,
+                "profit/loss": "loss",
+                "diff": -3
+            },
+            "day6": {
+                "prediction": 4286,
                 "profit/loss": "loss",
                 "diff": -5
             },
-            "day4": {
-                "prediction": 4338,
-                "profit/loss": "loss",
-                "diff": -10
-            },
-            "day5": {
-                "prediction": 4331,
-                "profit/loss": "loss",
-                "diff": -17
-            },
-            "day6": {
-                "prediction": 4325,
-                "profit/loss": "loss",
-                "diff": -22
-            },
-            "previous_close": 4348.2998046875,
-            "date": "221229"
+            "previous_close": 4292.14990234375,
+            "date": "230102"
         }
     },
     {
         "stock": "HDFC.NS",
         "predictions": {
             "day1": {
-                "prediction": 2676,
+                "prediction": 2661,
                 "profit/loss": "profit",
-                "diff": 0
+                "diff": 9
             },
             "day2": {
-                "prediction": 2678,
-                "profit/loss": "profit",
-                "diff": 3
-            },
-            "day3": {
-                "prediction": 2681,
-                "profit/loss": "profit",
-                "diff": 5
-            },
-            "day4": {
-                "prediction": 2683,
-                "profit/loss": "profit",
-                "diff": 8
-            },
-            "day5": {
-                "prediction": 2685,
-                "profit/loss": "profit",
-                "diff": 10
-            },
-            "day6": {
-                "prediction": 2688,
+                "prediction": 2665,
                 "profit/loss": "profit",
                 "diff": 12
             },
-            "previous_close": 2675.39990234375,
-            "date": "221229"
+            "day3": {
+                "prediction": 2668,
+                "profit/loss": "profit",
+                "diff": 16
+            },
+            "day4": {
+                "prediction": 2671,
+                "profit/loss": "profit",
+                "diff": 18
+            },
+            "day5": {
+                "prediction": 2673,
+                "profit/loss": "profit",
+                "diff": 21
+            },
+            "day6": {
+                "prediction": 2675,
+                "profit/loss": "profit",
+                "diff": 23
+            },
+            "previous_close": 2652.39990234375,
+            "date": "230102"
         }
     },
     {
         "stock": "BHARTIARTL.NS",
         "predictions": {
             "day1": {
-                "prediction": 818,
+                "prediction": 813,
                 "profit/loss": "loss",
-                "diff": -1
+                "diff": 0
             },
             "day2": {
-                "prediction": 819,
-                "profit/loss": "loss",
-                "diff": -1
+                "prediction": 813,
+                "profit/loss": "profit",
+                "diff": 0
             },
             "day3": {
-                "prediction": 819,
-                "profit/loss": "loss",
-                "diff": -1
+                "prediction": 814,
+                "profit/loss": "profit",
+                "diff": 0
             },
             "day4": {
-                "prediction": 818,
-                "profit/loss": "loss",
-                "diff": -2
+                "prediction": 814,
+                "profit/loss": "profit",
+                "diff": 0
             },
             "day5": {
-                "prediction": 818,
-                "profit/loss": "loss",
-                "diff": -2
+                "prediction": 814,
+                "profit/loss": "profit",
+                "diff": 0
             },
             "day6": {
-                "prediction": 818,
-                "profit/loss": "loss",
-                "diff": -2
+                "prediction": 814,
+                "profit/loss": "profit",
+                "diff": 0
             },
-            "previous_close": 820.75,
-            "date": "221229"
+            "previous_close": 813.5,
+            "date": "230102"
         }
     },
     {
         "stock": "ASIANPAINT.NS",
         "predictions": {
             "day1": {
-                "prediction": 3115,
+                "prediction": 3096,
                 "profit/loss": "profit",
-                "diff": 0
+                "diff": 49
             },
             "day2": {
-                "prediction": 3119,
+                "prediction": 3082,
                 "profit/loss": "profit",
-                "diff": 4
+                "diff": 35
             },
             "day3": {
-                "prediction": 3119,
+                "prediction": 3075,
                 "profit/loss": "profit",
-                "diff": 4
+                "diff": 27
             },
             "day4": {
-                "prediction": 3116,
+                "prediction": 3073,
                 "profit/loss": "profit",
-                "diff": 1
+                "diff": 26
             },
             "day5": {
-                "prediction": 3112,
-                "profit/loss": "loss",
-                "diff": -2
+                "prediction": 3075,
+                "profit/loss": "profit",
+                "diff": 28
             },
             "day6": {
-                "prediction": 3109,
-                "profit/loss": "loss",
-                "diff": -5
+                "prediction": 3079,
+                "profit/loss": "profit",
+                "diff": 31
             },
-            "previous_close": 3115.14990234375,
-            "date": "221229"
+            "previous_close": 3047.25,
+            "date": "230102"
         }
     },
     {
         "stock": "SBILIFE.NS",
         "predictions": {
             "day1": {
-                "prediction": 1250,
-                "profit/loss": "loss",
-                "diff": -8
+                "prediction": 1241,
+                "profit/loss": "profit",
+                "diff": 1
             },
             "day2": {
-                "prediction": 1252,
-                "profit/loss": "loss",
-                "diff": -6
+                "prediction": 1240,
+                "profit/loss": "profit",
+                "diff": 0
             },
             "day3": {
-                "prediction": 1252,
-                "profit/loss": "loss",
-                "diff": -5
+                "prediction": 1241,
+                "profit/loss": "profit",
+                "diff": 1
             },
             "day4": {
-                "prediction": 1252,
-                "profit/loss": "loss",
-                "diff": -5
+                "prediction": 1241,
+                "profit/loss": "profit",
+                "diff": 1
             },
             "day5": {
-                "prediction": 1252,
-                "profit/loss": "loss",
-                "diff": -5
+                "prediction": 1242,
+                "profit/loss": "profit",
+                "diff": 2
             },
             "day6": {
-                "prediction": 1252,
-                "profit/loss": "loss",
-                "diff": -5
+                "prediction": 1243,
+                "profit/loss": "profit",
+                "diff": 3
             },
-            "previous_close": 1258.5999755859375,
-            "date": "221229"
+            "previous_close": 1240.050048828125,
+            "date": "230102"
         }
     },
     {
         "stock": "HEROMOTOCO.NS",
         "predictions": {
             "day1": {
-                "prediction": 2716,
-                "profit/loss": "loss",
-                "diff": -6
+                "prediction": 2722,
+                "profit/loss": "profit",
+                "diff": 6
             },
             "day2": {
-                "prediction": 2718,
-                "profit/loss": "loss",
-                "diff": -3
+                "prediction": 2722,
+                "profit/loss": "profit",
+                "diff": 6
             },
             "day3": {
-                "prediction": 2719,
-                "profit/loss": "loss",
-                "diff": -2
+                "prediction": 2723,
+                "profit/loss": "profit",
+                "diff": 7
             },
             "day4": {
-                "prediction": 2720,
-                "profit/loss": "loss",
-                "diff": -1
+                "prediction": 2723,
+                "profit/loss": "profit",
+                "diff": 8
             },
             "day5": {
-                "prediction": 2721,
-                "profit/loss": "loss",
-                "diff": 0
+                "prediction": 2723,
+                "profit/loss": "profit",
+                "diff": 7
             },
             "day6": {
-                "prediction": 2721,
-                "profit/loss": "loss",
-                "diff": 0
+                "prediction": 2723,
+                "profit/loss": "profit",
+                "diff": 7
             },
-            "previous_close": 2722.199951171875,
-            "date": "221229"
+            "previous_close": 2715.89990234375,
+            "date": "230102"
         }
     },
     {
         "stock": "ICICIBANK.NS",
         "predictions": {
             "day1": {
-                "prediction": 906,
-                "profit/loss": "loss",
-                "diff": -1
-            },
-            "day2": {
-                "prediction": 907,
-                "profit/loss": "loss",
-                "diff": 0
-            },
-            "day3": {
-                "prediction": 907,
-                "profit/loss": "loss",
-                "diff": 0
-            },
-            "day4": {
-                "prediction": 907,
-                "profit/loss": "loss",
-                "diff": 0
-            },
-            "day5": {
-                "prediction": 906,
-                "profit/loss": "loss",
-                "diff": -1
-            },
-            "day6": {
-                "prediction": 905,
+                "prediction": 899,
                 "profit/loss": "loss",
                 "diff": -2
             },
-            "previous_close": 908.0499877929688,
-            "date": "221229"
+            "day2": {
+                "prediction": 899,
+                "profit/loss": "loss",
+                "diff": -2
+            },
+            "day3": {
+                "prediction": 898,
+                "profit/loss": "loss",
+                "diff": -3
+            },
+            "day4": {
+                "prediction": 897,
+                "profit/loss": "loss",
+                "diff": -5
+            },
+            "day5": {
+                "prediction": 895,
+                "profit/loss": "loss",
+                "diff": -7
+            },
+            "day6": {
+                "prediction": 893,
+                "profit/loss": "loss",
+                "diff": -8
+            },
+            "previous_close": 902.4500122070312,
+            "date": "230102"
         }
     },
     {
         "stock": "CIPLA.NS",
         "predictions": {
             "day1": {
-                "prediction": 1095,
+                "prediction": 1085,
                 "profit/loss": "profit",
-                "diff": 7
+                "diff": 14
             },
             "day2": {
-                "prediction": 1094,
+                "prediction": 1085,
                 "profit/loss": "profit",
-                "diff": 7
+                "diff": 14
             },
             "day3": {
-                "prediction": 1096,
+                "prediction": 1087,
                 "profit/loss": "profit",
-                "diff": 9
+                "diff": 16
             },
             "day4": {
-                "prediction": 1098,
+                "prediction": 1089,
                 "profit/loss": "profit",
-                "diff": 11
+                "diff": 18
             },
             "day5": {
-                "prediction": 1100,
+                "prediction": 1091,
                 "profit/loss": "profit",
-                "diff": 12
+                "diff": 20
             },
             "day6": {
-                "prediction": 1100,
+                "prediction": 1091,
                 "profit/loss": "profit",
-                "diff": 13
+                "diff": 20
             },
-            "previous_close": 1087.550048828125,
-            "date": "221229"
+            "previous_close": 1070.949951171875,
+            "date": "230102"
         }
     },
     {
         "stock": "TATACONSUM.NS",
         "predictions": {
             "day1": {
-                "prediction": 782,
+                "prediction": 769,
                 "profit/loss": "profit",
                 "diff": 6
             },
             "day2": {
-                "prediction": 782,
+                "prediction": 768,
                 "profit/loss": "profit",
                 "diff": 6
             },
             "day3": {
-                "prediction": 783,
+                "prediction": 771,
                 "profit/loss": "profit",
-                "diff": 7
+                "diff": 9
             },
             "day4": {
-                "prediction": 783,
+                "prediction": 774,
                 "profit/loss": "profit",
-                "diff": 7
+                "diff": 11
             },
             "day5": {
-                "prediction": 783,
+                "prediction": 775,
                 "profit/loss": "profit",
-                "diff": 7
+                "diff": 12
             },
             "day6": {
-                "prediction": 783,
+                "prediction": 774,
                 "profit/loss": "profit",
-                "diff": 7
+                "diff": 12
             },
-            "previous_close": 776.0999755859375,
-            "date": "221229"
+            "previous_close": 762.2999877929688,
+            "date": "230102"
         }
     },
     {
         "stock": "POWERGRID.NS",
         "predictions": {
             "day1": {
-                "prediction": 215,
+                "prediction": 214,
                 "profit/loss": "loss",
                 "diff": 0
             },
             "day2": {
-                "prediction": 215,
+                "prediction": 214,
                 "profit/loss": "loss",
                 "diff": 0
             },
             "day3": {
-                "prediction": 215,
+                "prediction": 214,
                 "profit/loss": "loss",
                 "diff": 0
             },
             "day4": {
-                "prediction": 215,
+                "prediction": 214,
                 "profit/loss": "loss",
                 "diff": 0
             },
@@ -809,45 +809,45 @@
                 "profit/loss": "loss",
                 "diff": 0
             },
-            "previous_close": 215.75,
-            "date": "221229"
+            "previous_close": 215.0500030517578,
+            "date": "230102"
         }
     },
     {
         "stock": "DIVISLAB.NS",
         "predictions": {
             "day1": {
-                "prediction": 3430,
+                "prediction": 3388,
                 "profit/loss": "profit",
-                "diff": 18
+                "diff": 16
             },
             "day2": {
-                "prediction": 3411,
-                "profit/loss": "loss",
-                "diff": 0
+                "prediction": 3384,
+                "profit/loss": "profit",
+                "diff": 11
             },
             "day3": {
-                "prediction": 3406,
-                "profit/loss": "loss",
-                "diff": -6
-            },
-            "day4": {
-                "prediction": 3410,
-                "profit/loss": "loss",
-                "diff": -1
-            },
-            "day5": {
-                "prediction": 3420,
-                "profit/loss": "profit",
-                "diff": 7
-            },
-            "day6": {
-                "prediction": 3430,
+                "prediction": 3390,
                 "profit/loss": "profit",
                 "diff": 17
             },
-            "previous_close": 3412.199951171875,
-            "date": "221229"
+            "day4": {
+                "prediction": 3401,
+                "profit/loss": "profit",
+                "diff": 28
+            },
+            "day5": {
+                "prediction": 3412,
+                "profit/loss": "profit",
+                "diff": 39
+            },
+            "day6": {
+                "prediction": 3420,
+                "profit/loss": "profit",
+                "diff": 47
+            },
+            "previous_close": 3372.64990234375,
+            "date": "230102"
         }
     },
     {
@@ -856,849 +856,849 @@
             "day1": {
                 "prediction": 826,
                 "profit/loss": "profit",
-                "diff": 6
+                "diff": 3
             },
             "day2": {
-                "prediction": 831,
+                "prediction": 826,
                 "profit/loss": "profit",
-                "diff": 11
+                "diff": 4
             },
             "day3": {
-                "prediction": 834,
+                "prediction": 826,
                 "profit/loss": "profit",
-                "diff": 14
+                "diff": 4
             },
             "day4": {
-                "prediction": 835,
+                "prediction": 826,
                 "profit/loss": "profit",
-                "diff": 15
+                "diff": 4
             },
             "day5": {
-                "prediction": 835,
+                "prediction": 826,
                 "profit/loss": "profit",
-                "diff": 15
+                "diff": 3
             },
             "day6": {
-                "prediction": 834,
+                "prediction": 825,
                 "profit/loss": "profit",
-                "diff": 14
+                "diff": 3
             },
-            "previous_close": 819.5499877929688,
-            "date": "221229"
+            "previous_close": 822.2999877929688,
+            "date": "230102"
         }
     },
     {
         "stock": "KOTAKBANK.NS",
         "predictions": {
             "day1": {
-                "prediction": 1829,
+                "prediction": 1830,
                 "profit/loss": "profit",
-                "diff": 11
+                "diff": 5
             },
             "day2": {
-                "prediction": 1831,
+                "prediction": 1830,
                 "profit/loss": "profit",
-                "diff": 12
+                "diff": 5
             },
             "day3": {
-                "prediction": 1833,
+                "prediction": 1831,
                 "profit/loss": "profit",
-                "diff": 14
+                "diff": 6
             },
             "day4": {
-                "prediction": 1835,
+                "prediction": 1831,
                 "profit/loss": "profit",
-                "diff": 16
+                "diff": 6
             },
             "day5": {
-                "prediction": 1836,
+                "prediction": 1831,
                 "profit/loss": "profit",
-                "diff": 17
+                "diff": 6
             },
             "day6": {
-                "prediction": 1836,
+                "prediction": 1830,
                 "profit/loss": "profit",
-                "diff": 17
+                "diff": 5
             },
-            "previous_close": 1818.75,
-            "date": "221229"
+            "previous_close": 1825.050048828125,
+            "date": "230102"
         }
     },
     {
         "stock": "BAJAJ-AUTO.NS",
         "predictions": {
             "day1": {
-                "prediction": 3585,
+                "prediction": 3597,
                 "profit/loss": "profit",
-                "diff": 16
+                "diff": 23
             },
             "day2": {
-                "prediction": 3588,
+                "prediction": 3594,
+                "profit/loss": "profit",
+                "diff": 20
+            },
+            "day3": {
+                "prediction": 3593,
                 "profit/loss": "profit",
                 "diff": 19
             },
-            "day3": {
-                "prediction": 3590,
-                "profit/loss": "profit",
-                "diff": 21
-            },
             "day4": {
-                "prediction": 3591,
+                "prediction": 3592,
                 "profit/loss": "profit",
-                "diff": 22
+                "diff": 18
             },
             "day5": {
                 "prediction": 3591,
                 "profit/loss": "profit",
-                "diff": 22
+                "diff": 17
             },
             "day6": {
                 "prediction": 3590,
                 "profit/loss": "profit",
-                "diff": 22
+                "diff": 16
             },
-            "previous_close": 3568.800048828125,
-            "date": "221229"
+            "previous_close": 3573.949951171875,
+            "date": "230102"
         }
     },
     {
         "stock": "JSWSTEEL.NS",
         "predictions": {
             "day1": {
-                "prediction": 758,
-                "profit/loss": "loss",
-                "diff": -10
-            },
-            "day2": {
-                "prediction": 759,
+                "prediction": 765,
                 "profit/loss": "loss",
                 "diff": -9
             },
-            "day3": {
-                "prediction": 759,
+            "day2": {
+                "prediction": 766,
                 "profit/loss": "loss",
-                "diff": -10
+                "diff": -8
+            },
+            "day3": {
+                "prediction": 765,
+                "profit/loss": "loss",
+                "diff": -9
             },
             "day4": {
-                "prediction": 759,
+                "prediction": 766,
                 "profit/loss": "loss",
-                "diff": -10
+                "diff": -9
             },
             "day5": {
-                "prediction": 759,
+                "prediction": 766,
                 "profit/loss": "loss",
-                "diff": -10
+                "diff": -9
             },
             "day6": {
-                "prediction": 759,
+                "prediction": 766,
                 "profit/loss": "loss",
-                "diff": -10
+                "diff": -9
             },
-            "previous_close": 769.4000244140625,
-            "date": "221229"
+            "previous_close": 775.2999877929688,
+            "date": "230102"
         }
     },
     {
         "stock": "APOLLOHOSP.NS",
         "predictions": {
             "day1": {
-                "prediction": 4607,
+                "prediction": 4522,
                 "profit/loss": "profit",
-                "diff": 83
+                "diff": 68
             },
             "day2": {
-                "prediction": 4594,
+                "prediction": 4511,
                 "profit/loss": "profit",
-                "diff": 70
+                "diff": 56
             },
             "day3": {
-                "prediction": 4594,
+                "prediction": 4518,
                 "profit/loss": "profit",
-                "diff": 69
+                "diff": 64
             },
             "day4": {
-                "prediction": 4595,
+                "prediction": 4530,
                 "profit/loss": "profit",
-                "diff": 71
+                "diff": 75
             },
             "day5": {
-                "prediction": 4595,
+                "prediction": 4539,
                 "profit/loss": "profit",
-                "diff": 71
+                "diff": 85
             },
             "day6": {
-                "prediction": 4594,
+                "prediction": 4546,
                 "profit/loss": "profit",
-                "diff": 69
+                "diff": 92
             },
-            "previous_close": 4524.4501953125,
-            "date": "221229"
+            "previous_close": 4454.35009765625,
+            "date": "230102"
         }
     },
     {
         "stock": "COALINDIA.NS",
         "predictions": {
             "day1": {
-                "prediction": 222,
+                "prediction": 225,
                 "profit/loss": "profit",
-                "diff": 1
+                "diff": 0
             },
             "day2": {
-                "prediction": 223,
+                "prediction": 225,
                 "profit/loss": "profit",
-                "diff": 1
+                "diff": 0
             },
             "day3": {
-                "prediction": 223,
+                "prediction": 225,
                 "profit/loss": "profit",
-                "diff": 1
+                "diff": 0
             },
             "day4": {
-                "prediction": 223,
+                "prediction": 225,
                 "profit/loss": "profit",
-                "diff": 2
+                "diff": 0
             },
             "day5": {
-                "prediction": 223,
+                "prediction": 225,
                 "profit/loss": "profit",
-                "diff": 2
+                "diff": 0
             },
             "day6": {
-                "prediction": 224,
+                "prediction": 225,
                 "profit/loss": "profit",
-                "diff": 2
+                "diff": 0
             },
-            "previous_close": 221.64999389648438,
-            "date": "221229"
+            "previous_close": 224.75,
+            "date": "230102"
         }
     },
     {
         "stock": "GRASIM.NS",
         "predictions": {
             "day1": {
-                "prediction": 1752,
+                "prediction": 1732,
                 "profit/loss": "profit",
                 "diff": 0
             },
             "day2": {
-                "prediction": 1756,
-                "profit/loss": "profit",
-                "diff": 3
+                "prediction": 1727,
+                "profit/loss": "loss",
+                "diff": -3
             },
             "day3": {
-                "prediction": 1757,
-                "profit/loss": "profit",
-                "diff": 4
+                "prediction": 1723,
+                "profit/loss": "loss",
+                "diff": -7
             },
             "day4": {
-                "prediction": 1757,
-                "profit/loss": "profit",
-                "diff": 4
+                "prediction": 1719,
+                "profit/loss": "loss",
+                "diff": -12
             },
             "day5": {
-                "prediction": 1756,
-                "profit/loss": "profit",
-                "diff": 3
+                "prediction": 1714,
+                "profit/loss": "loss",
+                "diff": -16
             },
             "day6": {
-                "prediction": 1753,
-                "profit/loss": "profit",
-                "diff": 0
+                "prediction": 1710,
+                "profit/loss": "loss",
+                "diff": -20
             },
-            "previous_close": 1752.75,
-            "date": "221229"
+            "previous_close": 1731.300048828125,
+            "date": "230102"
         }
     },
     {
         "stock": "NTPC.NS",
         "predictions": {
             "day1": {
-                "prediction": 166,
-                "profit/loss": "profit",
+                "prediction": 167,
+                "profit/loss": "loss",
                 "diff": 0
             },
             "day2": {
-                "prediction": 166,
-                "profit/loss": "profit",
+                "prediction": 167,
+                "profit/loss": "loss",
                 "diff": 0
             },
             "day3": {
-                "prediction": 166,
-                "profit/loss": "profit",
+                "prediction": 167,
+                "profit/loss": "loss",
                 "diff": 0
             },
             "day4": {
-                "prediction": 166,
-                "profit/loss": "profit",
+                "prediction": 167,
+                "profit/loss": "loss",
                 "diff": 0
             },
             "day5": {
-                "prediction": 166,
-                "profit/loss": "profit",
+                "prediction": 167,
+                "profit/loss": "loss",
                 "diff": 0
             },
             "day6": {
-                "prediction": 166,
-                "profit/loss": "profit",
+                "prediction": 167,
+                "profit/loss": "loss",
                 "diff": 0
             },
-            "previous_close": 166.75,
-            "date": "221229"
+            "previous_close": 168.0,
+            "date": "230102"
         }
     },
     {
         "stock": "M&M.NS",
         "predictions": {
             "day1": {
-                "prediction": 1269,
+                "prediction": 1265,
+                "profit/loss": "profit",
+                "diff": 2
+            },
+            "day2": {
+                "prediction": 1267,
+                "profit/loss": "profit",
+                "diff": 5
+            },
+            "day3": {
+                "prediction": 1270,
                 "profit/loss": "profit",
                 "diff": 7
             },
-            "day2": {
-                "prediction": 1279,
-                "profit/loss": "profit",
-                "diff": 16
-            },
-            "day3": {
-                "prediction": 1285,
-                "profit/loss": "profit",
-                "diff": 22
-            },
             "day4": {
-                "prediction": 1289,
+                "prediction": 1272,
                 "profit/loss": "profit",
-                "diff": 27
+                "diff": 9
             },
             "day5": {
-                "prediction": 1292,
+                "prediction": 1272,
                 "profit/loss": "profit",
-                "diff": 30
+                "diff": 9
             },
             "day6": {
-                "prediction": 1295,
+                "prediction": 1272,
                 "profit/loss": "profit",
-                "diff": 33
+                "diff": 9
             },
-            "previous_close": 1262.3499755859375,
-            "date": "221229"
+            "previous_close": 1262.8499755859375,
+            "date": "230102"
         }
     },
     {
         "stock": "ADANIENT.NS",
         "predictions": {
             "day1": {
-                "prediction": 3849,
+                "prediction": 3887,
                 "profit/loss": "profit",
-                "diff": 38
+                "diff": 46
             },
             "day2": {
-                "prediction": 3869,
+                "prediction": 3904,
                 "profit/loss": "profit",
-                "diff": 59
+                "diff": 63
             },
             "day3": {
-                "prediction": 3892,
+                "prediction": 3916,
                 "profit/loss": "profit",
-                "diff": 81
+                "diff": 75
             },
             "day4": {
-                "prediction": 3910,
-                "profit/loss": "profit",
-                "diff": 100
-            },
-            "day5": {
                 "prediction": 3924,
                 "profit/loss": "profit",
-                "diff": 113
+                "diff": 83
+            },
+            "day5": {
+                "prediction": 3930,
+                "profit/loss": "profit",
+                "diff": 89
             },
             "day6": {
-                "prediction": 3932,
+                "prediction": 3934,
                 "profit/loss": "profit",
-                "diff": 121
+                "diff": 93
             },
-            "previous_close": 3810.60009765625,
-            "date": "221229"
+            "previous_close": 3841.199951171875,
+            "date": "230102"
         }
     },
     {
         "stock": "LT.NS",
         "predictions": {
             "day1": {
-                "prediction": 2110,
-                "profit/loss": "loss",
-                "diff": 0
+                "prediction": 2093,
+                "profit/loss": "profit",
+                "diff": 3
             },
             "day2": {
-                "prediction": 2111,
+                "prediction": 2097,
                 "profit/loss": "profit",
-                "diff": 0
+                "diff": 7
             },
             "day3": {
-                "prediction": 2113,
+                "prediction": 2098,
                 "profit/loss": "profit",
-                "diff": 2
+                "diff": 8
             },
             "day4": {
-                "prediction": 2114,
+                "prediction": 2097,
                 "profit/loss": "profit",
-                "diff": 3
+                "diff": 8
             },
             "day5": {
-                "prediction": 2113,
+                "prediction": 2097,
                 "profit/loss": "profit",
-                "diff": 3
+                "diff": 7
             },
             "day6": {
-                "prediction": 2113,
+                "prediction": 2096,
                 "profit/loss": "profit",
-                "diff": 2
+                "diff": 7
             },
-            "previous_close": 2110.89990234375,
-            "date": "221229"
+            "previous_close": 2089.449951171875,
+            "date": "230102"
         }
     },
     {
         "stock": "MARUTI.NS",
         "predictions": {
             "day1": {
-                "prediction": 8470,
+                "prediction": 8501,
                 "profit/loss": "profit",
-                "diff": 34
+                "diff": 98
             },
             "day2": {
-                "prediction": 8554,
+                "prediction": 8490,
                 "profit/loss": "profit",
-                "diff": 119
+                "diff": 86
             },
             "day3": {
-                "prediction": 8607,
+                "prediction": 8482,
                 "profit/loss": "profit",
-                "diff": 171
+                "diff": 78
             },
             "day4": {
-                "prediction": 8635,
+                "prediction": 8471,
                 "profit/loss": "profit",
-                "diff": 199
+                "diff": 67
             },
             "day5": {
-                "prediction": 8642,
+                "prediction": 8457,
                 "profit/loss": "profit",
-                "diff": 206
+                "diff": 53
             },
             "day6": {
-                "prediction": 8633,
+                "prediction": 8442,
                 "profit/loss": "profit",
-                "diff": 197
+                "diff": 39
             },
-            "previous_close": 8435.7998046875,
-            "date": "221229"
+            "previous_close": 8403.2998046875,
+            "date": "230102"
         }
     },
     {
         "stock": "AXISBANK.NS",
         "predictions": {
             "day1": {
-                "prediction": 930,
+                "prediction": 936,
+                "profit/loss": "loss",
+                "diff": -5
+            },
+            "day2": {
+                "prediction": 936,
+                "profit/loss": "loss",
+                "diff": -4
+            },
+            "day3": {
+                "prediction": 936,
+                "profit/loss": "loss",
+                "diff": -4
+            },
+            "day4": {
+                "prediction": 937,
+                "profit/loss": "loss",
+                "diff": -4
+            },
+            "day5": {
+                "prediction": 937,
                 "profit/loss": "loss",
                 "diff": -3
             },
-            "day2": {
-                "prediction": 931,
-                "profit/loss": "loss",
-                "diff": -2
-            },
-            "day3": {
-                "prediction": 931,
-                "profit/loss": "loss",
-                "diff": -2
-            },
-            "day4": {
-                "prediction": 932,
-                "profit/loss": "loss",
-                "diff": -1
-            },
-            "day5": {
-                "prediction": 933,
-                "profit/loss": "loss",
-                "diff": -1
-            },
             "day6": {
-                "prediction": 933,
+                "prediction": 937,
                 "profit/loss": "loss",
-                "diff": 0
+                "diff": -3
             },
-            "previous_close": 934.5499877929688,
-            "date": "221229"
+            "previous_close": 941.5999755859375,
+            "date": "230102"
         }
     },
     {
         "stock": "TATAMOTORS.NS",
         "predictions": {
             "day1": {
-                "prediction": 393,
+                "prediction": 396,
                 "profit/loss": "profit",
-                "diff": 7
+                "diff": 1
             },
             "day2": {
-                "prediction": 394,
+                "prediction": 400,
+                "profit/loss": "profit",
+                "diff": 5
+            },
+            "day3": {
+                "prediction": 402,
                 "profit/loss": "profit",
                 "diff": 8
             },
-            "day3": {
-                "prediction": 397,
-                "profit/loss": "profit",
-                "diff": 12
-            },
             "day4": {
-                "prediction": 400,
+                "prediction": 403,
                 "profit/loss": "profit",
-                "diff": 14
+                "diff": 9
             },
             "day5": {
-                "prediction": 401,
+                "prediction": 404,
                 "profit/loss": "profit",
-                "diff": 15
+                "diff": 9
             },
             "day6": {
-                "prediction": 402,
+                "prediction": 404,
                 "profit/loss": "profit",
-                "diff": 16
+                "diff": 9
             },
-            "previous_close": 385.8999938964844,
-            "date": "221229"
+            "previous_close": 394.79998779296875,
+            "date": "230102"
         }
     },
     {
         "stock": "BAJFINANCE.NS",
         "predictions": {
             "day1": {
-                "prediction": 6515,
+                "prediction": 6579,
                 "profit/loss": "profit",
-                "diff": 4
+                "diff": 26
             },
             "day2": {
-                "prediction": 6538,
-                "profit/loss": "profit",
-                "diff": 27
-            },
-            "day3": {
-                "prediction": 6541,
-                "profit/loss": "profit",
-                "diff": 31
-            },
-            "day4": {
-                "prediction": 6536,
+                "prediction": 6579,
                 "profit/loss": "profit",
                 "diff": 25
             },
-            "day5": {
-                "prediction": 6528,
+            "day3": {
+                "prediction": 6572,
                 "profit/loss": "profit",
-                "diff": 17
+                "diff": 19
+            },
+            "day4": {
+                "prediction": 6566,
+                "profit/loss": "profit",
+                "diff": 12
+            },
+            "day5": {
+                "prediction": 6562,
+                "profit/loss": "profit",
+                "diff": 8
             },
             "day6": {
-                "prediction": 6521,
+                "prediction": 6561,
                 "profit/loss": "profit",
-                "diff": 10
+                "diff": 7
             },
-            "previous_close": 6510.89990234375,
-            "date": "221229"
+            "previous_close": 6553.75,
+            "date": "230102"
         }
     },
     {
         "stock": "TATASTEEL.NS",
         "predictions": {
             "day1": {
-                "prediction": 109,
+                "prediction": 114,
                 "profit/loss": "loss",
-                "diff": -1
+                "diff": -5
             },
             "day2": {
-                "prediction": 108,
+                "prediction": 113,
                 "profit/loss": "loss",
-                "diff": -2
+                "diff": -6
             },
             "day3": {
-                "prediction": 108,
+                "prediction": 112,
                 "profit/loss": "loss",
-                "diff": -3
+                "diff": -6
             },
             "day4": {
-                "prediction": 107,
+                "prediction": 111,
                 "profit/loss": "loss",
-                "diff": -3
+                "diff": -7
             },
             "day5": {
-                "prediction": 107,
+                "prediction": 111,
                 "profit/loss": "loss",
-                "diff": -4
+                "diff": -7
             },
             "day6": {
-                "prediction": 107,
+                "prediction": 112,
                 "profit/loss": "loss",
-                "diff": -4
+                "diff": -7
             },
-            "previous_close": 111.75,
-            "date": "221229"
+            "previous_close": 119.25,
+            "date": "230102"
         }
     },
     {
         "stock": "BAJAJFINSV.NS",
         "predictions": {
             "day1": {
-                "prediction": 1527,
+                "prediction": 1552,
                 "profit/loss": "profit",
-                "diff": 15
+                "diff": 0
             },
             "day2": {
-                "prediction": 1527,
+                "prediction": 1558,
                 "profit/loss": "profit",
-                "diff": 15
+                "diff": 6
             },
             "day3": {
-                "prediction": 1529,
+                "prediction": 1560,
                 "profit/loss": "profit",
-                "diff": 18
+                "diff": 7
             },
             "day4": {
-                "prediction": 1532,
+                "prediction": 1560,
                 "profit/loss": "profit",
-                "diff": 20
+                "diff": 8
             },
             "day5": {
-                "prediction": 1533,
+                "prediction": 1560,
                 "profit/loss": "profit",
-                "diff": 22
+                "diff": 7
             },
             "day6": {
-                "prediction": 1535,
+                "prediction": 1559,
                 "profit/loss": "profit",
-                "diff": 23
+                "diff": 7
             },
-            "previous_close": 1511.699951171875,
-            "date": "221229"
+            "previous_close": 1552.5,
+            "date": "230102"
         }
     },
     {
         "stock": "RELIANCE.NS",
         "predictions": {
             "day1": {
-                "prediction": 2555,
-                "profit/loss": "profit",
-                "diff": 12
+                "prediction": 2563,
+                "profit/loss": "loss",
+                "diff": -12
             },
             "day2": {
-                "prediction": 2551,
-                "profit/loss": "profit",
-                "diff": 8
+                "prediction": 2572,
+                "profit/loss": "loss",
+                "diff": -3
             },
             "day3": {
-                "prediction": 2553,
-                "profit/loss": "profit",
-                "diff": 9
+                "prediction": 2573,
+                "profit/loss": "loss",
+                "diff": -2
             },
             "day4": {
-                "prediction": 2556,
-                "profit/loss": "profit",
-                "diff": 13
+                "prediction": 2571,
+                "profit/loss": "loss",
+                "diff": -4
             },
             "day5": {
-                "prediction": 2557,
-                "profit/loss": "profit",
-                "diff": 14
+                "prediction": 2569,
+                "profit/loss": "loss",
+                "diff": -6
             },
             "day6": {
-                "prediction": 2557,
-                "profit/loss": "profit",
-                "diff": 13
+                "prediction": 2568,
+                "profit/loss": "loss",
+                "diff": -6
             },
-            "previous_close": 2543.300048828125,
-            "date": "221229"
+            "previous_close": 2575.89990234375,
+            "date": "230102"
         }
     },
     {
         "stock": "ONGC.NS",
         "predictions": {
             "day1": {
-                "prediction": 144,
+                "prediction": 148,
                 "profit/loss": "loss",
-                "diff": 0
+                "diff": -1
             },
             "day2": {
-                "prediction": 144,
+                "prediction": 146,
                 "profit/loss": "loss",
-                "diff": 0
+                "diff": -3
             },
             "day3": {
-                "prediction": 143,
+                "prediction": 146,
                 "profit/loss": "loss",
-                "diff": 0
+                "diff": -4
             },
             "day4": {
-                "prediction": 143,
+                "prediction": 146,
                 "profit/loss": "loss",
-                "diff": 0
+                "diff": -4
             },
             "day5": {
-                "prediction": 143,
+                "prediction": 146,
                 "profit/loss": "loss",
-                "diff": 0
+                "diff": -4
             },
             "day6": {
-                "prediction": 143,
+                "prediction": 146,
                 "profit/loss": "loss",
-                "diff": 0
+                "diff": -4
             },
-            "previous_close": 144.64999389648438,
-            "date": "221229"
+            "previous_close": 150.4499969482422,
+            "date": "230102"
         }
     },
     {
         "stock": "ULTRACEMCO.NS",
         "predictions": {
             "day1": {
-                "prediction": 7090,
+                "prediction": 7066,
                 "profit/loss": "profit",
-                "diff": 108
+                "diff": 48
             },
             "day2": {
-                "prediction": 7110,
+                "prediction": 7091,
                 "profit/loss": "profit",
-                "diff": 128
+                "diff": 73
             },
             "day3": {
-                "prediction": 7135,
+                "prediction": 7117,
                 "profit/loss": "profit",
-                "diff": 153
+                "diff": 99
             },
             "day4": {
-                "prediction": 7159,
+                "prediction": 7139,
                 "profit/loss": "profit",
-                "diff": 177
+                "diff": 121
             },
             "day5": {
-                "prediction": 7179,
+                "prediction": 7158,
                 "profit/loss": "profit",
-                "diff": 197
+                "diff": 140
             },
             "day6": {
-                "prediction": 7196,
+                "prediction": 7175,
                 "profit/loss": "profit",
-                "diff": 214
+                "diff": 157
             },
-            "previous_close": 6982.2001953125,
-            "date": "221229"
+            "previous_close": 7017.9501953125,
+            "date": "230102"
         }
     },
     {
         "stock": "HINDALCO.NS",
         "predictions": {
             "day1": {
-                "prediction": 467,
+                "prediction": 480,
                 "profit/loss": "loss",
-                "diff": -2
+                "diff": -6
             },
             "day2": {
-                "prediction": 467,
+                "prediction": 477,
                 "profit/loss": "loss",
-                "diff": -1
+                "diff": -9
             },
             "day3": {
-                "prediction": 468,
+                "prediction": 479,
                 "profit/loss": "loss",
-                "diff": -1
+                "diff": -7
             },
             "day4": {
-                "prediction": 469,
+                "prediction": 480,
                 "profit/loss": "loss",
-                "diff": 0
+                "diff": -6
             },
             "day5": {
-                "prediction": 470,
-                "profit/loss": "profit",
-                "diff": 0
+                "prediction": 480,
+                "profit/loss": "loss",
+                "diff": -6
             },
             "day6": {
-                "prediction": 470,
-                "profit/loss": "profit",
-                "diff": 0
+                "prediction": 480,
+                "profit/loss": "loss",
+                "diff": -6
             },
-            "previous_close": 469.8999938964844,
-            "date": "221229"
+            "previous_close": 487.04998779296875,
+            "date": "230102"
         }
     },
     {
         "stock": "UPL.NS",
         "predictions": {
             "day1": {
-                "prediction": 729,
+                "prediction": 723,
                 "profit/loss": "profit",
-                "diff": 6
+                "diff": 1
             },
             "day2": {
-                "prediction": 733,
+                "prediction": 724,
                 "profit/loss": "profit",
-                "diff": 11
+                "diff": 2
             },
             "day3": {
-                "prediction": 737,
+                "prediction": 726,
                 "profit/loss": "profit",
-                "diff": 14
+                "diff": 4
             },
             "day4": {
-                "prediction": 739,
+                "prediction": 726,
                 "profit/loss": "profit",
-                "diff": 17
+                "diff": 4
             },
             "day5": {
-                "prediction": 741,
+                "prediction": 727,
                 "profit/loss": "profit",
-                "diff": 18
+                "diff": 5
             },
             "day6": {
-                "prediction": 742,
+                "prediction": 727,
                 "profit/loss": "profit",
-                "diff": 19
+                "diff": 5
             },
-            "previous_close": 722.5499877929688,
-            "date": "221229"
+            "previous_close": 722.0,
+            "date": "230102"
         }
     },
     {
         "stock": "TCS.NS",
         "predictions": {
             "day1": {
-                "prediction": 3263,
+                "prediction": 3256,
                 "profit/loss": "loss",
-                "diff": -4
+                "diff": -5
             },
             "day2": {
-                "prediction": 3262,
+                "prediction": 3251,
                 "profit/loss": "loss",
-                "diff": -6
+                "diff": -10
             },
             "day3": {
-                "prediction": 3259,
+                "prediction": 3245,
                 "profit/loss": "loss",
-                "diff": -9
+                "diff": -15
             },
             "day4": {
-                "prediction": 3254,
+                "prediction": 3240,
                 "profit/loss": "loss",
-                "diff": -14
+                "diff": -20
             },
             "day5": {
-                "prediction": 3249,
-                "profit/loss": "loss",
-                "diff": -19
-            },
-            "day6": {
-                "prediction": 3243,
+                "prediction": 3235,
                 "profit/loss": "loss",
                 "diff": -25
             },
-            "previous_close": 3268.75,
-            "date": "221229"
+            "day6": {
+                "prediction": 3230,
+                "profit/loss": "loss",
+                "diff": -30
+            },
+            "previous_close": 3261.449951171875,
+            "date": "230102"
         }
     },
     {
@@ -1706,36 +1706,36 @@
         "predictions": {
             "day1": {
                 "prediction": 392,
-                "profit/loss": "profit",
-                "diff": 1
+                "profit/loss": "loss",
+                "diff": 0
             },
             "day2": {
                 "prediction": 392,
-                "profit/loss": "profit",
-                "diff": 1
+                "profit/loss": "loss",
+                "diff": 0
             },
             "day3": {
-                "prediction": 392,
-                "profit/loss": "profit",
-                "diff": 1
+                "prediction": 391,
+                "profit/loss": "loss",
+                "diff": -1
             },
             "day4": {
                 "prediction": 391,
-                "profit/loss": "profit",
-                "diff": 1
+                "profit/loss": "loss",
+                "diff": -1
             },
             "day5": {
-                "prediction": 391,
-                "profit/loss": "profit",
-                "diff": 0
+                "prediction": 390,
+                "profit/loss": "loss",
+                "diff": -2
             },
             "day6": {
                 "prediction": 390,
-                "profit/loss": "profit",
-                "diff": 0
+                "profit/loss": "loss",
+                "diff": -2
             },
-            "previous_close": 390.75,
-            "date": "221229"
+            "previous_close": 393.04998779296875,
+            "date": "230102"
         }
     },
     {
@@ -1743,110 +1743,110 @@
         "predictions": {
             "day1": {
                 "prediction": 1518,
-                "profit/loss": "profit",
-                "diff": 0
+                "profit/loss": "loss",
+                "diff": -5
             },
             "day2": {
                 "prediction": 1519,
-                "profit/loss": "profit",
-                "diff": 2
+                "profit/loss": "loss",
+                "diff": -4
             },
             "day3": {
-                "prediction": 1521,
-                "profit/loss": "profit",
-                "diff": 3
+                "prediction": 1520,
+                "profit/loss": "loss",
+                "diff": -3
             },
             "day4": {
-                "prediction": 1521,
-                "profit/loss": "profit",
-                "diff": 4
+                "prediction": 1520,
+                "profit/loss": "loss",
+                "diff": -3
             },
             "day5": {
-                "prediction": 1521,
-                "profit/loss": "profit",
-                "diff": 4
+                "prediction": 1520,
+                "profit/loss": "loss",
+                "diff": -3
             },
             "day6": {
-                "prediction": 1521,
-                "profit/loss": "profit",
-                "diff": 4
+                "prediction": 1520,
+                "profit/loss": "loss",
+                "diff": -3
             },
-            "previous_close": 1517.550048828125,
-            "date": "221229"
+            "previous_close": 1524.0,
+            "date": "230102"
         }
     },
     {
         "stock": "TECHM.NS",
         "predictions": {
             "day1": {
-                "prediction": 1010,
-                "profit/loss": "loss",
-                "diff": -2
+                "prediction": 1014,
+                "profit/loss": "profit",
+                "diff": 5
             },
             "day2": {
-                "prediction": 1012,
-                "profit/loss": "loss",
-                "diff": 0
+                "prediction": 1013,
+                "profit/loss": "profit",
+                "diff": 3
             },
             "day3": {
-                "prediction": 1013,
-                "profit/loss": "loss",
-                "diff": 0
+                "prediction": 1012,
+                "profit/loss": "profit",
+                "diff": 2
             },
             "day4": {
-                "prediction": 1012,
+                "prediction": 1010,
+                "profit/loss": "profit",
+                "diff": 1
+            },
+            "day5": {
+                "prediction": 1009,
+                "profit/loss": "profit",
+                "diff": 0
+            },
+            "day6": {
+                "prediction": 1009,
                 "profit/loss": "loss",
                 "diff": 0
             },
-            "day5": {
-                "prediction": 1011,
-                "profit/loss": "loss",
-                "diff": -1
-            },
-            "day6": {
-                "prediction": 1010,
-                "profit/loss": "loss",
-                "diff": -2
-            },
-            "previous_close": 1013.2000122070312,
-            "date": "221229"
+            "previous_close": 1009.5,
+            "date": "230102"
         }
     },
     {
         "stock": "HCLTECH.NS",
         "predictions": {
             "day1": {
-                "prediction": 1035,
+                "prediction": 1039,
                 "profit/loss": "loss",
-                "diff": -9
+                "diff": 0
             },
             "day2": {
-                "prediction": 1036,
+                "prediction": 1039,
                 "profit/loss": "loss",
-                "diff": -7
+                "diff": 0
             },
             "day3": {
-                "prediction": 1037,
+                "prediction": 1038,
                 "profit/loss": "loss",
-                "diff": -7
+                "diff": -1
             },
             "day4": {
                 "prediction": 1036,
                 "profit/loss": "loss",
-                "diff": -7
+                "diff": -2
             },
             "day5": {
-                "prediction": 1035,
+                "prediction": 1034,
                 "profit/loss": "loss",
-                "diff": -9
+                "diff": -4
             },
             "day6": {
                 "prediction": 1033,
                 "profit/loss": "loss",
-                "diff": -10
+                "diff": -6
             },
-            "previous_close": 1044.449951171875,
-            "date": "221229"
+            "previous_close": 1039.449951171875,
+            "date": "230102"
         }
     }
 ]
